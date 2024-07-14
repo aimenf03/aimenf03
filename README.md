@@ -1,10 +1,5 @@
 - 👋 Hi, I’m Aimen!
-- 👀 I’m interested in learning new languages!
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-aimenf03/aimenf03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in learning new languages and developing my skills in web development!
+- 🌱 I’m currently learning Python and Javascript.
+- 💞️ I’m looking to collaborate on projects and creating my own to extend my workspace.
+- 📫 Reach me on instagram: instagram.com/aimenf03
