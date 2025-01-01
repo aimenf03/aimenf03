@@ -1,5 +1,3 @@
 - 👋 Hi, I’m Aimen!
 - 👀 I’m interested in learning new languages and developing my skills in web development!
-- 🌱 I’m currently learning Python and Javascript.
-- 💞️ I’m looking to collaborate on projects and creating my own to extend my workspace.
 - 📫 Reach me on instagram: instagram.com/aimenf03
